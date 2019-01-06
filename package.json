@@ -1,0 +1,23 @@
+{
+  "name": "adikteev_test",
+  "version": "1.0.0",
+  "description": "Compute local information within a rolling time window",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "modules": "modules",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Benoit Mariat",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.10"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
